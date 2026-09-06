@@ -1,4 +1,4 @@
-** A Deep Reinforcement Learning for Manipulator Control with Model Compression for Reduced Computation and Memory Requirements**
+**A Deep Reinforcement Learning for Manipulator Control with Model Compression for Reduced Computation and Memory Requirements**
 
 Undergraduate thesis on applying deep reinforcement learning to robotic manipulator control, with model compression techniques to reduce computational and memory requirements for deployment on resource-constrained hardware.
 
