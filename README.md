@@ -12,6 +12,10 @@ Full thesis document - covers background, related work, methodology, model compr
 
 Presentation slides used for the thesis defense.
 
+🎨 Figures_of_Thesis_Book
+
+7 figures used in the thesis book, hand-drawn by me using PowerPoint.
+
 🚧 Status
 
 This repository currently contains the thesis book and defense presentation only. The full implementation code, trained models, and experimental data will be published here after the associated paper is submitted.
