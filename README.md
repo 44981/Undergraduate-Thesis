@@ -14,7 +14,7 @@ Presentation slides used for the thesis defense.
 
 🎨 Figures_of_Thesis_Book
 
-7 figures used in the thesis book, hand-drawn by me using PowerPoint.
+6 figures used in the thesis book, hand-drawn by me using PowerPoint.
 
 🚧 Status
 
